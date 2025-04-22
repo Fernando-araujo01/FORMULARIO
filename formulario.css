@@ -1,0 +1,40 @@
+body{
+   background-image: url("programador1.jpg");
+   background-size: cover;
+   background-position: center;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  margin:2px;
+  color: white;
+  font-family: "Cinzel", serif;
+}
+
+
+header{
+
+    text-align: center;
+}
+
+label{
+    display:inline-block;
+
+}
+
+.botao:hover{
+    color: white;
+    cursor: pointer;
+    background:gray;
+
+}
+
+
+
+@media screen and (max-width: 950px){
+
+  #digite{
+    width: 10%;
+
+  }
+
+}
